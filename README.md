@@ -4,7 +4,7 @@ I love coding, UI/UX design, and building small games / apps. I'm a bit shy in p
 
 **Dreams:** Study Computer Science abroad and build impactful technology in the future.
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=dc143c&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Malikkun09&color=dc143c&style=for-the-badge)
 
 ---
 
@@ -108,14 +108,10 @@ I love coding, UI/UX design, and building small games / apps. I'm a bit shy in p
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Malikkun09&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![Top Contrib](https://github-contributor-stats.vercel.app/api?username=Malikkun09&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
 

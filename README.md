@@ -9,10 +9,9 @@ I love coding, UI/UX design, and building small games / apps. I'm a bit shy in p
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/malikajasih)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-malik-fajar-el-syarif-05773a392)
 
-> Replace the links above with your actual social URLs.
 
 ---
 
@@ -103,23 +102,23 @@ I love coding, UI/UX design, and building small games / apps. I'm a bit shy in p
 ---
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=ambient_gradient&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malikkun09&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malikkun09&theme=ambient_gradient&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikkun09&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Malikkun09&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![Top Contrib](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![Top Contrib](https://github-contributor-stats.vercel.app/api?username=Malikkun09&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Malikkun09&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with a custom template -->

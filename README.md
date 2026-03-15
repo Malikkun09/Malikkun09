@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋! My name is Malik, a Grade 11 student at **SMK Informatika Fithrah Insani** (major: **PPLG -> Pengembangan Perangkat Lunak & Game**).  
-I love coding, UI/UX design, and building small games / apps. I'm a bit shy in public speaking, but I code loud. 🚀
+I love coding, UI/UX design, and building small games / apps.
 
 **Dreams:** Study Computer Science abroad and build impactful technology in the future.
 

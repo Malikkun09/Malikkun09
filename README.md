@@ -1,8 +1,13 @@
 # 💫 About Me:
-Hi 👋! My name is Malik, a Grade 11 student at **SMK Informatika Fithrah Insani** (major: **PPLG -> Pengembangan Perangkat Lunak & Game**).  
-I love coding, UI/UX design, and building small games / apps.
 
-**Dreams:** Study Computer Science abroad and build impactful technology in the future.
+Hi 👋! My name is **Malik**, a Grade 11 student at **SMK Informatika Fithrah Insani**, majoring in **PPLG (Software & Game Development)**.
+
+I'm passionate about **software development, UI/UX design, and modern technologies**. I enjoy building applications, experimenting with new tools, and learning how real-world systems work behind the scenes.
+
+Currently, I spend most of my time **coding, exploring open-source projects, and improving my development skills**. I'm especially interested in backend systems, APIs, and creative tech projects.
+
+**Dream:** Study **Computer Science abroad** and contribute to impactful technology in the future.
+
 
 ![](https://komarev.com/ghpvc/?username=Malikkun09&color=dc143c&style=for-the-badge)
 

@@ -8,6 +8,17 @@ I love coding, UI/UX design, and building small games / apps.
 
 ---
 
+## 👤 Accounts
+
+**Primary Account (Main):**  
+[![GitHub](https://img.shields.io/badge/GitHub-Malikkun09-181717?style=for-the-badge&logo=github)](https://github.com/Malikkun09)
+
+**Secondary Account:**  
+[![GitHub](https://img.shields.io/badge/GitHub-MalikSMK09-181717?style=for-the-badge&logo=github)](https://github.com/MalikSMK09)
+
+> Note: This profile uses **MalikSMK09** as the active account.  
+> My first GitHub account is **Malikkun09**.
+> 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/malikajasih)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-malik-fajar-el-syarif-05773a392)

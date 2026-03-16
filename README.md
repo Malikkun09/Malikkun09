@@ -22,6 +22,10 @@ I love coding, UI/UX design, and building small games / apps.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/malikajasih)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-malik-fajar-el-syarif-05773a392)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome\&logoColor=white\&style=for-the-badge)](https://www.malikfajar.my.id)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white\&style=for-the-badge)](https://instagram.com/malikajasih)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=devdotto\&logoColor=white\&style=for-the-badge)](https://dev.to/malikkun09)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-%23FE7A16.svg?logo=stack-overflow\&logoColor=white\&style=for-the-badge)](https://stackoverflow.com/users/32502400/muhammad-malik-fajar)
 
 
 ---

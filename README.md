@@ -18,7 +18,8 @@ I love coding, UI/UX design, and building small games / apps.
 
 > Note: This profile uses **MalikSMK09** as the active account.  
 > My first GitHub account is **Malikkun09**.
-> 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-malik-fajar-el-syarif-05773a392)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome\&logoColor=white\&style=for-the-badge)](https://www.malikfajar.my.id)

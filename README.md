@@ -18,7 +18,7 @@ Currently, I spend most of my time **coding, exploring open-source projects, and
 **Primary Account (Main):**  
 [![GitHub](https://img.shields.io/badge/GitHub-Malikkun09-181717?style=for-the-badge&logo=github)](https://github.com/Malikkun09)
 
-**Secondary Account:**  
+**Secondary Account (School):**  
 [![GitHub](https://img.shields.io/badge/GitHub-MalikSMK09-181717?style=for-the-badge&logo=github)](https://github.com/MalikSMK09)
 
 > Note: This profile uses **MalikSMK09** as the active account.  

@@ -20,7 +20,6 @@ I love coding, UI/UX design, and building small games / apps.
 > My first GitHub account is **Malikkun09**.
 > 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/malikajasih)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/muhammad-malik-fajar-el-syarif-05773a392)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome\&logoColor=white\&style=for-the-badge)](https://www.malikfajar.my.id)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white\&style=for-the-badge)](https://instagram.com/malikajasih)

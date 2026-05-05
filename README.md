@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-Hi 👋! My name is **Malik**, a Grade 11 student at **SMK Informatika Fithrah Insani**, majoring in **PPLG (Software & Game Development)**.
+Hi 👋! My name is **Malik**, a student at **SMK Informatika Fithrah Insani**, majoring in **PPLG (Software & Game Development)**.
 
-I'm passionate about **software development, UI/UX design, and modern technologies**. I enjoy building applications, experimenting with new tools, and learning how real-world systems work behind the scenes.
+I'm passionate about **software development, UI/UX design, AI technologies, and modern technologies**. I enjoy building applications, experimenting with new tools, and learning how real-world systems work behind the scenes.
 
 Currently, I spend most of my time **coding, exploring open-source projects, and improving my development skills**. I'm especially interested in backend systems, APIs, and creative tech projects.
 

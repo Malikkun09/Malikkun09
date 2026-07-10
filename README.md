@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Malik**, a software developer from **Indonesia 🇮🇩**.
+I'm **Malik**, a Student from **Indonesia 🇮🇩**.
 
 I enjoy building modern web applications, experimenting with AI, and creating products that solve real problems.
 

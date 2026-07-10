@@ -1,17 +1,25 @@
-# 💫 About Me
+# 👋 Hey there!
 
-Hi there! 👋 I'm **Malik**, a final-year student at **Fithrah Insani Informatics Vocational High School** in **Indonesia**, majoring in **Software & Game Development (PPLG)**.
+I'm **Malik**, a software developer from **Indonesia 🇮🇩**.
 
-I'm passionate about software engineering, UI/UX design, artificial intelligence, and modern web technologies. I enjoy building practical applications, exploring new frameworks, and understanding how software works behind the scenes. My primary tech stack includes **JavaScript**, **Python**, and **Dart**, along with frameworks and tools such as **React**, **Node.js**, **Flutter**, and **Figma** for designing intuitive and user-friendly interfaces.
+I enjoy building modern web applications, experimenting with AI, and creating products that solve real problems.
 
-Beyond coding, I enjoy contributing to open-source projects, experimenting with new technologies, and continuously improving my backend development, API design, and problem-solving skills. I'm particularly interested in AI-powered applications, developer tools, automation, and building products that solve real-world challenges through thoughtful engineering.
+### What I'm into
 
-I'm always eager to learn, collaborate, and connect with fellow developers, mentors, and technology enthusiasts who share a passion for creating meaningful software.
+- ⚡ Full-stack Web Development
+- 🤖 Artificial Intelligence
+- 🎨 UI/UX Design
+- 🚀 Open Source
+- 🐳 DevOps & Self-hosting
 
-### 🎯 Goal
+### Current Focus
 
-My long-term goal is to pursue a **Computer Science** and **Cyber Security** degree abroad and contribute to impactful technologies that make people's lives easier, more accessible, and more connected.
+- Building production-ready web apps
+- Learning AI Engineering
+- Improving backend architecture
+- Preparing for Computer Science abroad
 
+> I believe the best way to learn is by building.
 
 
 ![](https://komarev.com/ghpvc/?username=Malikkun09&color=dc143c&style=for-the-badge)

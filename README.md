@@ -15,7 +15,7 @@ I enjoy building modern web applications, experimenting with AI, and creating pr
 ### Current Focus
 
 - Building production-ready web apps
-- Learning AI Engineering
+- Learning AI Engineering & Cybersecurity
 - Improving backend architecture
 - Preparing for Computer Science abroad
 

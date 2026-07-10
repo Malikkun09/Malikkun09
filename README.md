@@ -1,12 +1,17 @@
-# 💫 About Me:
+# 💫 About Me
 
-Hi 👋! My name is **Malik**, a student at **SMK Informatika Fithrah Insani**, majoring in **PPLG (Software & Game Development)**.
+Hi there! 👋 I'm **Malik**, a final-year student at **Fithrah Insani Informatics Vocational High School** in **Indonesia**, majoring in **Software & Game Development (PPLG)**.
 
-I'm passionate about **software development, UI/UX design, AI technologies, and modern technologies**. I enjoy building applications, experimenting with new tools, and learning how real-world systems work behind the scenes.
+I'm passionate about software engineering, UI/UX design, artificial intelligence, and modern web technologies. I enjoy building practical applications, exploring new frameworks, and understanding how software works behind the scenes. My primary tech stack includes **JavaScript**, **Python**, and **Dart**, along with frameworks and tools such as **React**, **Node.js**, **Flutter**, and **Figma** for designing intuitive and user-friendly interfaces.
 
-Currently, I spend most of my time **coding, exploring open-source projects, and improving my development skills**. I'm especially interested in backend systems, APIs, and creative tech projects.
+Beyond coding, I enjoy contributing to open-source projects, experimenting with new technologies, and continuously improving my backend development, API design, and problem-solving skills. I'm particularly interested in AI-powered applications, developer tools, automation, and building products that solve real-world challenges through thoughtful engineering.
 
-**Dream:** Study **Computer Science abroad** and contribute to impactful technology in the future.
+I'm always eager to learn, collaborate, and connect with fellow developers, mentors, and technology enthusiasts who share a passion for creating meaningful software.
+
+### 🎯 Goal
+
+My long-term goal is to pursue a **Computer Science** and **Cyber Security** degree abroad and contribute to impactful technologies that make people's lives easier, more accessible, and more connected.
+
 
 
 ![](https://komarev.com/ghpvc/?username=Malikkun09&color=dc143c&style=for-the-badge)

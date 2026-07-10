@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **Malik**, a Student from **Indonesia 🇮🇩**.
+I'm **Malik**, a student at Fithrah Insani Informatics Vocational High School from **Indonesia 🇮🇩**.
 
 I enjoy building modern web applications, experimenting with AI, and creating products that solve real problems.
 

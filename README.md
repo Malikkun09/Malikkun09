@@ -17,7 +17,7 @@ I enjoy building modern web applications, experimenting with AI, and creating pr
 - Building production-ready web apps
 - Learning AI Engineering & Cybersecurity
 - Improving backend architecture
-- Preparing for Computer Science abroad
+- Preparing for Computer Science at state university
 
 > I believe the best way to learn is by building.
 
